@@ -1,15 +1,26 @@
-<p align="center">
 
-  <a href="https://www.matissue.com/" target="blank"><img src="https://matissue.com/logo.svg" width="180" alt="맛이슈 로고" /></a>
+
+<p align="center" text-align="center">
+  <a href="https://www.matissue.com/" target="blank"><img src="https://matissue.com/logo.svg" width="300" height="200" alt="맛이슈 로고" /></a>
 </p>
 
 <p align="center">
 🚀 <b>맛이슈 API 서버는 표준 Python 타입 힌트를 기반으로 한 모던하고 고성능 웹 프레임워크인 FastAPI를 사용하여 API를 구축한 웹 프로젝트입니다.</b> 🚀
 </p>
-<p align="center">  <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="180" alt="FastAPI 로고" /></a>　
-  <a href="https://www.mongodb.com/" target="blank"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="60" alt="MongoDB 로고" /></a>　
-  <a href="https://redis.io/" target="blank"><img src="https://velog.velcdn.com/images/sejinkim/post/c3f2148b-a8c2-4628-bb5a-eb5f47cab0c2/image.png" width="180" alt="Redis 로고" /></a>　
-  <a href="https://motor.readthedocs.io/en/stable/" target="blank"><img src="https://motor.readthedocs.io/en/stable/_images/motor.png" width="180" alt="Motor 로고" /></a>　</p>
+    <p align="center">
+        <a href="https://fastapi.tiangolo.com/" target="_blank">
+            <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="100" width="auto" alt="FastAPI 로고" style="height: auto;">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="100" width="180" alt="MongoDB 로고" style="height: auto;">
+        </a>
+        <a href="https://redis.io/" target="_blank">
+            <img src="https://velog.velcdn.com/images/sejinkim/post/c3f2148b-a8c2-4628-bb5a-eb5f47cab0c2/image.png" height="100" width="auto" alt="Redis 로고" style="height: auto;">
+        </a>
+        <a href="https://motor.readthedocs.io/en/stable/" target="_blank">
+            <img src="https://motor.readthedocs.io/en/stable/_images/motor.png" height="100" width="auto" alt="Motor 로고" style="height: auto;">
+        </a>
+    </div>
 <p align="center">
 
 [![FastAPI 패키지 버전](https://img.shields.io/pypi/v/fastapi.svg)](https://pypi.org/project/fastapi/)
