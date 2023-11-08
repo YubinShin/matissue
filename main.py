@@ -11,6 +11,8 @@ origins = [
     "https://www.matissue.com/",
     "https://www.matissue.com",
     "https://matissue.com/",
+    "https://api.matissue.com",
+    "https://api.matissue.com/",
     "https://matissue.com",
     "https://matissue.onrender.com",
     "https://matissue-1jim.onrender.com",
